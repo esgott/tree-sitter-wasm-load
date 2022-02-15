@@ -4,4 +4,3 @@ tree-sitter-grammar/binding.gyp
 tree-sitter-grammar/bindings
 tree-sitter-grammar/package.json
 tree-sitter-grammar/src
-tree-sitter-grammar/tree-sitter-grammar.wasm
